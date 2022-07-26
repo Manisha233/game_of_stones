@@ -1,6 +1,5 @@
 # game_of_stones
 
-**TODO: Add description**
 
 ## Installation
 
